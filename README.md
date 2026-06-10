@@ -41,11 +41,8 @@ Total non-fictional persons (QIDs): 13461343
 
 ### Possible future metric erosion by the unwashed cloutlord hordes of the internet
 
-Posting this 2026-06, note, [Goodhart's Law](https://en.wikipedia.org/wiki/Goodhart%27s_law) would likely start applying to this metric, if it ever were to become some kind of common thing that people brag about.
-
-![Very nice ... let's see Paul Allens wikipedia languages](https://i.kym-cdn.com/entries/icons/original/000/030/892/bateman.jpg)
+Posting this 2026-06, note, [Goodhart's Law](https://en.wikipedia.org/wiki/Goodhart%27s_law) would likely start applying to this metric, if it ever were to become something people commonly brag about.
 
 _Very nice ... let's see Paul Allens wikipedia languages_
-
-
+![Very nice ... let's see Paul Allens wikipedia languages](https://i.kym-cdn.com/entries/icons/original/000/030/892/bateman.jpg)
 
