@@ -39,9 +39,9 @@ Total distinct language pages: 21
 Total non-fictional persons (QIDs): 13461343
 ```
 
-### Note Possible future metric erosion by the unwashed cloutlord hordes of the internet
+### Possible future metric erosion by the unwashed cloutlord hordes of the internet
 
-Posting this 2026-06. [Goodhart's Law](https://en.wikipedia.org/wiki/Goodhart%27s_law) would likely start applying to this metric, if it ever were to become some kind of common thing that people brag about.
+Posting this 2026-06, note, [Goodhart's Law](https://en.wikipedia.org/wiki/Goodhart%27s_law) would likely start applying to this metric, if it ever were to become some kind of common thing that people brag about.
 
 ![Very nice ... let's see Paul Allens wikipedia languages](https://i.kym-cdn.com/entries/icons/original/000/030/892/bateman.jpg)
 
