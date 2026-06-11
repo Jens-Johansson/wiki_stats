@@ -39,6 +39,10 @@ Total distinct language pages: 21
 Total non-fictional persons (QIDs): 13461343
 ```
 
+### Test harness
+
+Live version here: https://sandbox.jens.org/wiki_stats/
+
 ### Possible future metric erosion by the unwashed cloutlord hordes of the internet
 
 Posting this 2026-06, note, [Goodhart's Law](https://en.wikipedia.org/wiki/Goodhart%27s_law) would likely start applying to this metric, if it ever were to become something people commonly brag about.
